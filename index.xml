@@ -1,0 +1,220 @@
+<?xml version="1.0"?>
+
+<!-- File name: index.xml 
+
+ Copyright 2021, 2024 5 Mode
+ 
+ This file is part of Shifu Page.
+ 
+ Shifu Page is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+ 
+ Shifu Page is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+ GNU General Public License for more details.  
+ 
+ You should have received a copy of the GNU General Public License
+ along with Shifu Page. If not, see <https://www.gnu.org/licenses/>.
+
+ index.xml
+  
+ Shifu index file.
+ 
+ @author Daniele Bonini <my25mb@aol.com>
+ @copyrights (c) 2021, 2024, 5 Mode     
+
+-->
+
+<?xml-stylesheet type="text/xsl" href="index.xsl"?>
+
+
+<CONTENT>
+	<LINK>
+		<NAME>Centergross</NAME>
+    <TITLE>Business center just out the city</TITLE>
+		<IMAGE>
+		   <ADDRESS>/foto.png</ADDRESS>
+		   <WIDTH>175</WIDTH>
+		   <HEIGHT>181</HEIGHT> 
+		</IMAGE>
+		<DESC>on Via Stalingrado in the direction to exit the city, reached the roundabout (of the firemen station) take the second exit for Via Ferrarese; at the first cross, direction for Castel Maggiore, turn left pass over the bridge of the highway and 
+    at the roundabout turn right in Via del Tuscolano; continuing straight, the road will become via Saliceto; at the roundabout take the second exit remaining in Via Saliceto, after 2 km you will find it on the left side. Name of the business: Centergross.</DESC>
+		<TYPE>location</TYPE>
+		<URI>https://5md.io/l/whochapp</URI>
+		<INDEX>1</INDEX> 
+	</LINK>
+	<LINK>
+		<NAME>Morini Rent</NAME>
+    <TITLE>Car wash just out the center</TITLE>
+		<IMAGE>
+		   <ADDRESS>/foto.png</ADDRESS>
+		   <WIDTH>175</WIDTH>
+		   <HEIGHT>181</HEIGHT> 
+		</IMAGE>
+    <DESC>on the ring road take the exit 5 "Lame", take Via Cristoforo Colombo toward the center; passed under a small birdge, at the roundabout take the second exit for Via Marco Polo, checking left you will see the place just before the oil station. Name of the business: Morini Rent.</DESC>    <PROFESSION>electrician</PROFESSION>
+		<TYPE>location</TYPE>
+		<URI>https://5md.io/l/whochapp</URI>
+		<INDEX>2</INDEX> 
+	</LINK>
+	<LINK>
+		<NAME>Autolavaggio Ester</NAME>
+    <TITLE>Car wash just out the center</TITLE>
+		<IMAGE>
+		   <ADDRESS>/foto.png</ADDRESS>
+		   <WIDTH>175</WIDTH>
+		   <HEIGHT>181</HEIGHT> 
+		</IMAGE>
+		<DESC>on the ring road take the exit 5 "Lame", take Via Cristoforo Colombo toward the center; passed under a small birdge, at the roundabout take the second exit for Via Marco Polo, checking left you will see Morini Renting just before an oil station. 
+        Enter the oil station, the place is just behind it. Name of the business: Autolavaggio Ester.</DESC>
+		<TYPE>location</TYPE>
+		<URI>https://5md.io/l/whochapp</URI>
+		<INDEX>3</INDEX> 
+	</LINK>
+	<LINK>
+		<NAME>Ju Bin</NAME>
+    <TITLE>Chinese restaurant for parties</TITLE>
+		<IMAGE>
+		   <ADDRESS>/foto.png</ADDRESS>
+		   <WIDTH>175</WIDTH>
+		   <HEIGHT>181</HEIGHT> 
+		</IMAGE>
+    <DESC>on the ring road reach the exit 6 "Castel Maggiore" and take Via Corticella with the direction to exit the city; at the roundabout with Via Stendhal you can start to search parking place: the place is just 150m on the left side of Via Stendhal. Name of the business: Ju Bin; great cuisine, karoke and private rooms.</DESC>
+		<TYPE>location</TYPE>
+		<URI>https://5md.io/l/whochapp</URI>
+		<INDEX>4</INDEX> 
+	</LINK>
+	<LINK>
+		<NAME>Lidl Italia</NAME>
+    <TITLE>Discount just out the city</TITLE>
+		<IMAGE>
+		   <ADDRESS>/foto.png</ADDRESS>
+		   <WIDTH>175</WIDTH>
+		   <HEIGHT>181</HEIGHT> 
+		</IMAGE>
+    <DESC>on the ring road reach the exit 6 "Castel Maggiore" and take Via Corticella with the direction to exit the city; at the roundabout with Via Stendhal make a u turn: the place is just 50m on the right side of Via Corticella. Name of the business: Lidl Italia; well organized and big parking lot..</DESC>
+		<TYPE>location</TYPE>
+		<URI>https://5md.io/l/whochapp</URI>
+		<INDEX>5</INDEX> 
+	</LINK>
+	<LINK>
+		<NAME>Sandri Ferramenta</NAME>
+    <TITLE>Hardware shop well supplied</TITLE>
+		<IMAGE>
+		   <ADDRESS>/foto.png</ADDRESS>
+		   <WIDTH>175</WIDTH>
+		   <HEIGHT>181</HEIGHT> 
+		</IMAGE>
+    <DESC>on the ring road take the exit 5 "Lame", take Via Cristoforo Colombo toward the center; passed under a small birdge, at the roundabout do a u turn, taking the 4th exit, pass the small bridge again and turn immediately right. The place is 150m on the left side. Name of the business: Sandri Ferramenta, with parking lot.</DESC>
+		<TYPE>location</TYPE>
+		<URI>https://5md.io/l/whochapp</URI>
+		<INDEX>6</INDEX> 
+	</LINK>
+	<LINK>
+		<NAME>Leroy Merlin</NAME>
+    <TITLE>Hardware store</TITLE>
+		<IMAGE>
+		   <ADDRESS>/foto.png</ADDRESS>
+		   <WIDTH>175</WIDTH>
+		   <HEIGHT>181</HEIGHT> 
+		</IMAGE>
+    <DESC>on the ring road, reached exit 9 for "San Donato", remain on Via San Donato in the direction to exit the city toward Granarolo dell'Emilia, at the first roundabout take the first exit, take the second entrance on the right and go until the end of the shopping center. Name of the business: Leroy Merlin.</DESC>
+  	<TYPE>location</TYPE>
+		<URI>https://5md.io/l/whochapp</URI>
+		<INDEX>7</INDEX> 
+	</LINK>
+	<LINK>
+		<NAME>Risparmio Casa</NAME>
+    <TITLE>Home store very convinient</TITLE>
+		<IMAGE>
+		   <ADDRESS>/foto.png</ADDRESS>
+		   <WIDTH>175</WIDTH>
+		   <HEIGHT>181</HEIGHT> 
+		</IMAGE>
+    <DESC>on the ring road take the exit 5 "Lame", at the last roundabout of Via Cristoforo Colombo toward the city center enter the Centro Navile, the place is on the left side of the shopping center. Name of the business: Risparmio Casa.</DESC>
+  	<TYPE>location</TYPE>
+		<URI>https://5md.io/l/whochapp</URI>
+		<INDEX>8</INDEX> 
+	</LINK>
+	<LINK>
+		<NAME>Centro Chiavi</NAME>
+    <TITLE>Home store very convinient</TITLE>
+		<IMAGE>
+		   <ADDRESS>/foto.png</ADDRESS>
+		   <WIDTH>175</WIDTH>
+		   <HEIGHT>181</HEIGHT> 
+		</IMAGE>
+    <TITLE>Locksmith just out the center</TITLE>
+    <DESC>on the ring road take the exit 5 "Lame", take Via Cristoforo Colombo toward the center; continue on Via Marco Polo passing three roundabout; at the third roundabout take the third exit for Via Zanardi. At first cross with traffic lights turn left in via Carracci, after 300m you have arrived, the place is on the right side. Name of the business: Centro Chiavi.</DESC>
+  	<TYPE>location</TYPE>
+		<URI>https://5md.io/l/whochapp</URI>
+		<INDEX>9</INDEX> 
+	</LINK>  
+	<LINK>
+	  <NAME>Dott Sax</NAME>
+    <TITLE>PC repair shop</TITLE>
+		<IMAGE>
+		   <ADDRESS>/foto.png</ADDRESS>
+		   <WIDTH>175</WIDTH>
+		   <HEIGHT>181</HEIGHT> 
+		</IMAGE>
+    <DESC>on via Stalingrado in the direction toward the center arrive to the stunning Unipol building and, passed its bridge, turn right in Via della Liberazione; turn immediately left and park the car in front of the Eurospar supermarket. The place is at the beginning of Via Donato Creti. Name of the business: Dott Sax.</DESC>
+  	<TYPE>location</TYPE>
+		<URI>https://5md.io/l/whochapp</URI>
+		<INDEX>10</INDEX> 
+	</LINK>    
+	<LINK>
+	  <NAME>Genki Sushi</NAME>
+    <TITLE>Restaurant with robot waiters</TITLE>
+		<IMAGE>
+		   <ADDRESS>/foto.png</ADDRESS>
+		   <WIDTH>175</WIDTH>
+		   <HEIGHT>181</HEIGHT> 
+		</IMAGE>
+    <DESC>on the ring road, reached exit 9 for "San Donato", remain on Via San Donato in the direction to exit the city toward Granarolo dell'Emilia; at the first roundabout take the first exit; at the second roundabout take the third exit. Name of the business: Genki Sushi restaurant, indeed it is a sushi place.</DESC>
+  	<TYPE>location</TYPE>
+		<URI>https://5md.io/l/whochapp</URI>
+		<INDEX>11</INDEX> 
+	</LINK>    
+	<LINK>
+	  <NAME>Chiesa di San Michele in Bosco</NAME>
+    <TITLE>Romantic place with full view of the city</TITLE>
+		<IMAGE>
+		   <ADDRESS>/foto.png</ADDRESS>
+		   <WIDTH>175</WIDTH>
+		   <HEIGHT>181</HEIGHT> 
+		</IMAGE>
+    <DESC>follow the directions to reach the Rizzoli Hospital, the place is just in front of its entrance. Name of the place: Chiesa di San Michele in Bosco.</DESC>
+  	<TYPE>location</TYPE>
+		<URI>https://5md.io/l/whochapp</URI>
+		<INDEX>12</INDEX> 
+	</LINK>    
+  <LINK>
+	  <NAME>Elettromania</NAME>
+    <TITLE>Second hand IT market</TITLE>
+		<IMAGE>
+		   <ADDRESS>/foto.png</ADDRESS>
+		   <WIDTH>175</WIDTH>
+		   <HEIGHT>181</HEIGHT> 
+		</IMAGE>
+    <DESC>reach Via Stalingrado and go toward the city center, at the last cross with traffic lights before Mascarella bridge turn left in Via del Lavoro. First cross turn left and you have arrived, it is on the right side. Name of the business: Elettromania.</DESC>
+  	<TYPE>location</TYPE>
+		<URI>https://5md.io/l/whochapp</URI>
+		<INDEX>13</INDEX> 
+	</LINK>    
+  <LINK>
+	  <NAME>Nikal Group</NAME>
+    <TITLE>Tablet and smartphone repair shop</TITLE>
+		<IMAGE>
+		   <ADDRESS>/foto.png</ADDRESS>
+		   <WIDTH>175</WIDTH>
+		   <HEIGHT>181</HEIGHT> 
+		</IMAGE>
+    <DESC>on via Stalingrado in the direction toward the center arrive to the last cross of the street before Mascarella bridge, turn right in Via Sebastiano Serlio; turn immediately right in Via Mascherino and park the car. The place is in front of the park at the first cross on the left. Name of the business: Nikal Group.</DESC>
+  	<TYPE>location</TYPE>
+		<URI>https://5md.io/l/whochapp</URI>
+		<INDEX>14</INDEX> 
+	</LINK>    
+</CONTENT>
