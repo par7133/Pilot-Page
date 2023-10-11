@@ -8,24 +8,24 @@
 
  Copyright 2021, 2024 5 Mode
  
- This file is part of Shifu Page.
+ This file is part of Pilot Page.
  
- Shifu Page is free software: you can redistribute it and/or modify
+ Pilot Page is free software: you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
  the Free Software Foundation, either version 3 of the License, or
  (at your option) any later version.
  
- Shifu Page is distributed in the hope that it will be useful,
+ Pilot Page is distributed in the hope that it will be useful,
  but WITHOUT ANY WARRANTY; without even the implied warranty of
  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
  GNU General Public License for more details.  
  
  You should have received a copy of the GNU General Public License
- along with Shifu Page. If not, see <https://www.gnu.org/licenses/>.
+ along with Pilot Page. If not, see <https://www.gnu.org/licenses/>.
 
  index.xsl
   
- Shifu Page stylesheet.
+ Pilot Page stylesheet.
  
  @author Daniele Bonini <my25mb@aol.com>
  @copyrights (c) 2021, 2024, 5 Mode     
@@ -66,7 +66,7 @@
 		<div id="content" style="max-height:350px;display:none;" align="center">
 
     <div class="header">
-      <a id="burger-menu" href="#" style="display:none;"><img src="/res/burger-menu2.png" style="width:58px;"/></a><a id="ahome" href="/" target="_blank" style="color:black; text-decoration: none;"><img id="logo-secc" src="/res/logo.png" style="width:48px;vertical-align:middle;"/>&#8201; Pilot Page</a>&#8201; &#8201; &#8201; &#8201; &#8201; &#8201; &#8201;<a id="agithub" href="https://github.com/par7133/Pilot" style="color:#000000"><span style="color:#119fe2">on</span> github</a>&#8201; &#8201; &#8201; &#8201; &#8201; &#8201; <a id="afeedback" href="mailto:posta@elettronica.lol" style="color:#000000"><span style="color:#119fe2">for</span> feedback</a>&#8201; &#8201; &#8201; &#8201; &#8201; <a id="asupport" href="tel:+39-331-4029415" style="font-size:13px;background-color:#15c60b;border:2px solid #15c60b;color:black;height:27px;text-decoration:none;">&#8201; &#8201; get support&#8201; &#8201; </a>
+      <a id="burger-menu" href="#" style="display:none;"><img src="/res/burger-menu2.png" style="width:58px;"/></a><a id="ahome" href="/" target="_blank" style="color:black; text-decoration: none;"><img id="logo-secc" src="/res/logo.png" style="width:48px;vertical-align:middle;"/>&#8201; Pilot Page</a>&#8201; &#8201; &#8201; &#8201; &#8201; &#8201; &#8201;<a id="agithub" href="https://github.com/par7133/Pilot-Page" style="color:#000000"><span style="color:#119fe2">on</span> github</a>&#8201; &#8201; &#8201; &#8201; &#8201; &#8201; <a id="afeedback" href="mailto:posta@elettronica.lol" style="color:#000000"><span style="color:#119fe2">for</span> feedback</a>&#8201; &#8201; &#8201; &#8201; &#8201; <a id="asupport" href="tel:+39-378-0812391" style="font-size:13px;background-color:#15c60b;border:2px solid #15c60b;color:black;height:27px;text-decoration:none;">&#8201; &#8201; get support&#8201; &#8201; </a>
     </div>
 
 		<br/><br/><br/><br/><br/>
