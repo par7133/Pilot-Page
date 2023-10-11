@@ -1,9 +1,9 @@
 # Pilot-Page
-Everyone its locatios (software on premise) - GPL License
+Everyone its locations (software on premise) - GPL License
 
 Welcome to Pilot Page!
 
-Pilo Page is a small software on premise to let anyone share its favorit artisan contacts.   
+Pilo Page is a small software on premise to let anyone share its favorit locations.   
 
 The installation of Pilot Page is quite straightforward: just copy all the files of this repository to your website to have your page.    
 
