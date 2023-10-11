@@ -13,7 +13,7 @@ Indeed, there are a couple of things you need customize by yourself:
 <li>In index.xml you need to:</li>
 <ol>   
 <li>find out all the foto.jpg instances and replace each with the location foto you require.</li>
-<li>find out "http://typeme.in/l/wochapp" and replace it with your artisan contact.</li>
+<li>find out "http://typeme.in/l/wochapp" and replace it with your location contact.</li>
 <ol>   
 </ul>    
   
