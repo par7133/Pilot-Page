@@ -9,7 +9,7 @@ The installation of Pilot Page is quite straightforward: just copy all the files
 
 Indeed, there are a couple of things you need customize by yourself:   
 <ul>
-<li>Add foto*.jpg as your location pictures.</li>
+<li>Add foto*.jpg as your location picture.</li>
 <li>In index.xml you need to:</li>
 <ol>   
 <li>find out all the foto.jpg instances and replace each with the location foto you require.</li>
@@ -21,5 +21,5 @@ Indeed, there are a couple of things you need customize by yourself:
 	   
  ![Pilot-Page](/res/screenshot1.png)  
 
-Feedback to <a href="posta@elettronica">posta@elettronica</a>
+Feedback to <a href="posta@elettronica.lol">posta@elettronica.lol</a>
 
