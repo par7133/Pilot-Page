@@ -129,9 +129,9 @@
     <a>
       <xsl:attribute name="target">_blank</xsl:attribute>
       <xsl:attribute name="style">font-family: sans-serif; color: #000000; font-size: 9px</xsl:attribute> 
-      <xsl:attribute name="href">http://5mode.com</xsl:attribute>
-      <xsl:attribute name="title">5 Mode</xsl:attribute>
-      5 Mode
+      <xsl:attribute name="href">http://numode.eu</xsl:attribute>
+      <xsl:attribute name="title">NuMode</xsl:attribute>
+      NuMode
     </a>
 
 		<SPAN STYLE="font-family: sans-serif; color: #000000; font-size: 9px;">
@@ -144,11 +144,11 @@
     
     	 <a>
 	      	<xsl:attribute name="target">_blank</xsl:attribute> 
-          <xsl:attribute name="href">http://5mode.com</xsl:attribute>
-          <xsl:attribute name="title">5 Mode</xsl:attribute>
+          <xsl:attribute name="href">http://numode.eu</xsl:attribute>
+          <xsl:attribute name="title">NuMode</xsl:attribute>
           	<img >
 		      		<xsl:attribute name="border">0</xsl:attribute> 
-		  		    <xsl:attribute name="src">/res/5mode.png</xsl:attribute>
+		  		    <xsl:attribute name="src">/res/numode.png</xsl:attribute>
 		  	    	<xsl:attribute name="width">80</xsl:attribute>
 		  		    <xsl:attribute name="height"></xsl:attribute>
 			     </img> 
@@ -210,3 +210,4 @@
 	</xsl:template>
 
 </xsl:stylesheet> 
+
