@@ -25,5 +25,5 @@ To help please donate by clicking <a href="https://gaox.io/l/dona1">https://gaox
 	   
  ![Pilot-Page](/res/screenshot1.png)  
 
-Feedback to <a href="code@gaox.eu">code@gaox.eu</a>
+Feedback to <a href="code@gaox.io">code@gaox.io</a>
 
